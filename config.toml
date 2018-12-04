@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "CRPL_CISC@UD blog"
+theme = "tale"
