@@ -1,4 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "https://github.com/UD-CRPL/blog/"
 languageCode = "en-us"
 title = "CRPL_CISC@UD blog"
 theme = "tale"
+publishDir = "docs"
