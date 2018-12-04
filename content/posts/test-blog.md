@@ -1,7 +1,7 @@
 ---
 title: "the test blog"
 date: 2018-12-04T15:05:03-05:00
-draft: true
+draft: false
 author: Sanhu Li
 ---
 
