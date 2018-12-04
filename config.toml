@@ -1,4 +1,4 @@
-baseURL = "https://github.com/UD-CRPL/blog/"
+baseURL = "https://ud-crpl.github.io/blog/"
 languageCode = "en-us"
 title = "CRPL_CISC@UD blog"
 theme = "tale"
